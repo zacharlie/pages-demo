@@ -1,9 +1,7 @@
 title: Pages Demo
 description: >-
-  The pages demo shows the contents, workflow, actions, and outputs from
-  some common static site frameworks so developers can pick a process for
-  producing and maintaining project docs with minimal friction.
-baseurl: ""
+  Create project docs with minimal friction.
+baseurl: "pages-demo"
 url: "https://zacharlie.github.io/pages-demo"
 github_username:  zacharlie
 theme: jekyll-theme-cayman
