@@ -8,3 +8,5 @@ url: "https://zacharlie.github.io/pages-demo"
 github_username:  zacharlie
 theme: jekyll-theme-cayman
 show_downloads: false
+header-bg-color: "#ecb44b"
+header-bg-color-secondary: "#57a0c7"
